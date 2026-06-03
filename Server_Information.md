@@ -15,7 +15,7 @@
 | **Provider** | [🔗MCServerHost](https://www.mcserverhost.com) Free Plan |
 | **IP Address** | `brassbound.mcsh.io` |
 | **Max Players** | 4 |
-| **Modpack** | [🔗Modpack *(Modrinth)*](https://modrinth.com/modpack/create-brassbound-smp), [🔗Modpack *(CurseForge)*](https://www.curseforge.com/minecraft/modpacks/create-brassbound-smp-modpack) |
+| **Modpack** | [🔗*Modrinth*](https://modrinth.com/modpack/create-brassbound-smp), [🔗*CurseForge*](https://www.curseforge.com/minecraft/modpacks/create-brassbound-smp-modpack) |
 
 > ⚠️ The server is limited by player count and is **open only to viewers.**
 
