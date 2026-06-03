@@ -27,7 +27,7 @@ Running a server has costs. If you'd like to help keep the gears turning:
 
 > [☕ Donate via BuyMeACoffee](https://buymeacoffee.com/crxzyyt)
 
-Donations are entirely voluntary — see [Rule #13](./Rules.md#13-donations) for full details.
+Donations are entirely voluntary. see [Rule #13](./Rules.md#13-donations) for full details.
 
 ---
 
