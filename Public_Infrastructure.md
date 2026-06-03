@@ -4,7 +4,7 @@
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
-← *[Back to Table of Contents](./Table_of_Contents.md)*
+← *[Back to Table of Contents](./Readme.md)*
 
 ---
 
@@ -47,4 +47,4 @@ If you've built something that the community benefits from, add it here! Include
 ♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️
 ```
 
-← *[Back to Table of Contents](./Table_of_Contents.md)*
+← *[Back to Table of Contents](./Readme.md)*

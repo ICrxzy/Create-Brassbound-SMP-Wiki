@@ -4,7 +4,7 @@
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
-← *[Back to Table of Contents](./Table_of_Contents.md)*
+← *[Back to Table of Contents](./Readme.md)*
 
 ---
 
@@ -41,4 +41,4 @@ Head to the **[Mod List](./Modlist.md)** for the full breakdown of required serv
 ♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️
 ```
 
-← *[Back to Table of Contents](./Table_of_Contents.md)*
+← *[Back to Table of Contents](./Readme.md)*
