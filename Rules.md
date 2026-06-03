@@ -4,7 +4,7 @@
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
-← *[Back to Table of Contents](./Readme.md)*
+← *[Back to Table of Contents](./README.md)*
 
 ---
 
@@ -245,4 +245,4 @@ Examples:
 ♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️
 ```
 
-← *[Back to Table of Contents](./Readme.md)*
+← *[Back to Table of Contents](./README.md)*
