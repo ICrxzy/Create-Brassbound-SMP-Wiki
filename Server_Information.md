@@ -4,7 +4,7 @@
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
-← *[Back to Table of Contents](./Readme.md)*
+← *[Back to Table of Contents](./README.md)*
 
 ---
 
@@ -12,10 +12,10 @@
 
 | Field | Details |
 |-------|---------|
-| **Provider** | [🔗 MCServerHost](https://www.mcserverhost.com) Free Plan |
+| **Provider** | [🔗MCServerHost](https://www.mcserverhost.com) Free Plan |
 | **IP Address** | `brassbound.mcsh.io` |
 | **Max Players** | 4 |
-| **Modpack** | [🔗 Modpack *(Soon)*]() |
+| **Modpack** | [🔗Modpack *(Modrinth)*](https://modrinth.com/modpack/create-brassbound-smp), [🔗Modpack *(CurseForge)*](https://www.curseforge.com/minecraft/modpacks/create-brassbound-smp-modpack) |
 
 > ⚠️ The server is limited by player count and is **open only to viewers.**
 
@@ -41,4 +41,4 @@ Head to the **[Mod List](./Modlist.md)** for the full breakdown of required serv
 ♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️
 ```
 
-← *[Back to Table of Contents](./Readme.md)*
+← *[Back to Table of Contents](./README.md)*
