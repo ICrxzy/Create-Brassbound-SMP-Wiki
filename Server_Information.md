@@ -12,7 +12,7 @@
 
 | Field | Details |
 |-------|---------|
-| **Provider** | [🔗 MCServerHost](https://www.mcserverhost.com) — Free Plan |
+| **Provider** | [🔗 MCServerHost](https://www.mcserverhost.com) Free Plan |
 | **IP Address** | `brassbound.mcsh.io` |
 | **Max Players** | 4 |
 | **Modpack** | [🔗 Modpack *(Soon)*]() |
