@@ -14,9 +14,7 @@
 
 ---
 
-## 📦 Server Side — **REQUIRED** &nbsp;|&nbsp; 💻 Client Side — *OPTIONAL / RECOMMENDED*
-
-| 📦 Server Side ***[REQUIRED]*** | 💻 Client Side ***[OPTIONAL, RECOMMENDED]*** |
+| 📦 Server Side  | 💻 Client Side |
 |---|---|
 | [Amendments](https://modrinth.com/mod/amendments) | [Entity Model Features](https://modrinth.com/mod/entity-model-features) |
 | [AppleSkin](https://modrinth.com/mod/appleskin) | [Entity Texture Features](https://modrinth.com/mod/entitytexturefeatures) |
