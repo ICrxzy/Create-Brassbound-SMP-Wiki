@@ -17,7 +17,7 @@
 | Server Side | Client Side |
 |---|---|
 | [Amendments](https://modrinth.com/mod/amendments) | [Entity Model Features](https://modrinth.com/mod/entity-model-features) |
-| [AppleSkin](https://modrinth.com/mod/appleskin) | [Entity Texture Features](https://modrinth.com/mod/entitytexturefeatures) |
+| [What Are They Up To?](https://modrinth.com/mod/what-are-they-up-to) | [Entity Texture Features](https://modrinth.com/mod/entitytexturefeatures) |
 | [Armor Poser](https://modrinth.com/mod/armor-poser) | [3D Skin Layers](https://modrinth.com/mod/3dskinlayers) |
 | [Carry On](https://modrinth.com/mod/carry-on) | [AmbientSounds](https://modrinth.com/mod/ambientsounds) |
 | [Carry On + Create: Aeronautics Compat](https://modrinth.com/mod/carryon-aeronautics-compat) | [BetterF3](https://modrinth.com/mod/betterf3) |
@@ -33,17 +33,17 @@
 | [Create: Deco](https://modrinth.com/mod/create-deco) | [Iris Shaders](https://modrinth.com/mod/iris) |
 | [Create: Encased](https://modrinth.com/mod/create-encased) | [Reese's Sodium Options](https://modrinth.com/mod/reeses-sodium-options) |
 | [Create: Slice & Dice](https://modrinth.com/mod/slice-and-dice) | [Xaero Train Map](https://modrinth.com/mod/xaero-train-map) |
-| [Create: Stuff 'N Additions](https://modrinth.com/mod/create-stuff-additions) | |
-| [Create: Bells & Whistles](https://modrinth.com/mod/bellsandwhistles) | |
-| [Create: Big Contraptions](https://modrinth.com/mod/big-contraptions) | |
-| [Create: Bits 'n' Bobs](https://modrinth.com/mod/create-bits-n-bobs) | |
-| [Create: Connected](https://modrinth.com/mod/create-connected) | |
-| [Create: Copycats+](https://modrinth.com/mod/copycats) | |
-| [Create: Design n' Decor](https://modrinth.com/mod/create-design-n-decor) | |
-| [Create: Dragons Plus](https://modrinth.com/mod/create-dragons-plus) | |
-| [Create: Dynamic Lights](https://modrinth.com/mod/create-dynamic-lights) | |
-| [Create: Enchantable Machinery](https://modrinth.com/mod/create-enchantable-machinery) | |
-| [Create: Enchantment Industry](https://modrinth.com/mod/create-enchantment-industry) | |
+| [Create: Stuff 'N Additions](https://modrinth.com/mod/create-stuff-additions) | [Xaero World Map](https://modrinth.com/mod/xaeros-world-map) |
+| [Create: Bells & Whistles](https://modrinth.com/mod/bellsandwhistles) | [Xaero Minimap](https://modrinth.com/mod/xaeros-minimap) |
+| [Create: Big Contraptions](https://modrinth.com/mod/big-contraptions) | [Sodium Extra](https://modrinth.com/mod/sodium-extra) |
+| [Create: Bits 'n' Bobs](https://modrinth.com/mod/create-bits-n-bobs) | [Sodium Dynamic Lights](https://modrinth.com/mod/sodium-dynamic-lights) |
+| [Create: Connected](https://modrinth.com/mod/create-connected) | [Sodium](https://modrinth.com/mod/sodium) |
+| [Create: Copycats+](https://modrinth.com/mod/copycats) | [OK Zoomer](https://modrinth.com/mod/ok-zoomer) |
+| [Create: Design n' Decor](https://modrinth.com/mod/create-design-n-decor) | [Mod Menu](https://modrinth.com/mod/mod-menu-(neoforge-edition)) |
+| [Create: Dragons Plus](https://modrinth.com/mod/create-dragons-plus) | [EMI Loot](https://modrinth.com/mod/emi-loot) |
+| [Create: Dynamic Lights](https://modrinth.com/mod/create-dynamic-lights) | [EMI Enchanting](https://modrinth.com/mod/emi-enchanting) |
+| [Create: Enchantable Machinery](https://modrinth.com/mod/create-enchantable-machinery) | [AppleSkin](https://modrinth.com/mod/appleskin) |
+| [Create: Enchantment Industry](https://modrinth.com/mod/create-enchantment-industry) | [Entity Culling](https://modrinth.com/mod/entityculling) |
 | [Create: Escalated](https://modrinth.com/mod/escalated) | |
 | [Create: Extra Copycats](https://modrinth.com/mod/extra-copycats) | |
 | [Create: Extra Gauges](https://modrinth.com/mod/extra-gauges) | |
@@ -67,15 +67,12 @@
 | [Create: Vibrant Vaults](https://modrinth.com/mod/create-vibrant-vaults) | |
 | [Easy Villagers](https://modrinth.com/mod/easy-villagers) | |
 | [EMI](https://modrinth.com/mod/emi) | |
-| [EMI Enchanting](https://modrinth.com/mod/emi-enchanting) | |
-| [EMI Loot](https://modrinth.com/mod/emi-loot) | |
 | [Geophilic](https://modrinth.com/mod/geophilic) | |
 | [GJEB](https://modrinth.com/mod/gjeb) | |
 | [Gravestone Mod](https://modrinth.com/mod/gravestone-mod) | |
 | [Gravestone Curios Compat](https://modrinth.com/mod/gravestone-x-curios-api-compat) | |
 | [Immersive Paintings](https://modrinth.com/mod/immersive-paintings) | |
 | [Inventory Essentials](https://modrinth.com/mod/inventory-essentials) | |
-| [Entity Culling](https://modrinth.com/mod/entityculling) | |
 | [Explorer's Compass](https://modrinth.com/mod/explorers-compass) | |
 | [Farmer's Delight](https://modrinth.com/mod/farmers-delight) | |
 | [Diagonal Fences](https://modrinth.com/mod/diagonal-fences) | |
@@ -84,12 +81,10 @@
 | [Just Player Heads](https://modrinth.com/mod/just-player-heads) | |
 | [Keybinds Purger](https://modrinth.com/mod/keybindspurger) | |
 | [Lithium](https://modrinth.com/mod/lithium) | |
-| [Mod Menu](https://modrinth.com/mod/mod-menu-(neoforge-edition)) | |
 | [ModernFix](https://modrinth.com/mod/modernfix) | |
 | [Mouse Tweaks](https://modrinth.com/mod/mouse-tweaks) | |
 | [Naturalist](https://modrinth.com/mod/naturalist) | |
 | [Nature's Compass](https://modrinth.com/mod/natures-compass) | |
-| [OK Zoomer](https://modrinth.com/mod/ok-zoomer) | |
 | [Overflowing Bars](https://modrinth.com/mod/overflowing-bars) | |
 | [Polymorph](https://modrinth.com/mod/polymorph) | |
 | [Quick Right-Click](https://modrinth.com/mod/quick-right-click) | |
@@ -99,9 +94,6 @@
 | [Simple Voice Chat](https://modrinth.com/mod/simple-voice-chat) | |
 | [Sinytra Connector](https://modrinth.com/mod/connector) | |
 | [Sit](https://modrinth.com/mod/bl4cks-sit) | |
-| [Sodium](https://modrinth.com/mod/sodium) | |
-| [Sodium Dynamic Lights](https://modrinth.com/mod/sodium-dynamic-lights) | |
-| [Sodium Extra](https://modrinth.com/mod/sodium-extra) | |
 | [Sophisticated Backpacks](https://modrinth.com/mod/sophisticated-backpacks) | |
 | [Spawner Control](https://modrinth.com/mod/spawner-control) | |
 | [Steam n' Rails NeoForge](https://modrinth.com/mod/create-steam-n-rails-1.21.1) | |
@@ -111,9 +103,6 @@
 | [Trample Prevention](https://modrinth.com/mod/trample-prevention) | |
 | [Trimmable Tools](https://modrinth.com/mod/trimmable-tools) | |
 | [Vanilla Backport](https://modrinth.com/mod/vanillabackport) | |
-| [What Are They Up To?](https://modrinth.com/mod/what-are-they-up-to) | |
-| [Xaero Minimap](https://modrinth.com/mod/xaeros-minimap) | |
-| [Xaero World Map](https://modrinth.com/mod/xaeros-world-map) | |
 
 ---
 
