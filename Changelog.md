@@ -17,7 +17,7 @@
 ### 🟢 Season 1 — Initial Launch
 
 - Server launched on [🔗 MCServerHost](https://www.mcserverhost.com) Free Plan
-- IP: `thebrassboundsmp.mcsh.io` | Max Players: 8
+- IP: `thebrassboundsmp.mcsh.io` | Max Players: 16
 - Full modpack deployed (see [Mod List](./Modlist.md))
 - Custom configurations applied (see [Configurations](./Configurations.md))
 - Rules & Guidelines established (see [Rules](./Rules.md))
