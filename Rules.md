@@ -1,7 +1,7 @@
 ```
-╔══════════════════════════════════════════════════════════════╗
-║            📜  R U L E S   &   G U I D E L I N E S          ║
-╚══════════════════════════════════════════════════════════════╝
+/=======================================\
+[ The Brassbound SMP Server Guildelines ]
+\=======================================/
 ```
 
 ← *[Back to Table of Contents](./README.md)*
@@ -13,7 +13,7 @@
 
 ---
 
-### 📋 Quick Reference
+### Quick Reference
 
 | # | Rule | Penalty |
 |---|------|---------|
@@ -40,7 +40,7 @@
 
 > Treat other players, their builds, and their projects with respect. Griefing, stealing, harassment, unwanted destruction, or any action intended to negatively impact another player's experience is prohibited.
 
-**⚠️ Penalty:** Temporary ban. Repeat offenses may result in permanent removal.
+**Penalty:** Temporary ban. Repeat offenses may result in permanent removal.
 
 ---
 
@@ -52,7 +52,7 @@
 
 > Exploiting bugs, glitches, or unintended mechanics for personal gain is also prohibited.
 
-**🚫 Penalty:** Permanent Ban
+**Penalty:** Permanent Ban
 
 ---
 
@@ -64,7 +64,7 @@
 
 > Community resources should be shared fairly.
 
-**⚠️ Penalty:** Temporary ban. Repeat offenses may result in permanent removal.
+**Penalty:** Temporary ban. Repeat offenses may result in permanent removal.
 
 ---
 
@@ -110,7 +110,7 @@ Large-scale industrial complexes and mega-bases should be constructed outside th
 > * Sexually explicit content
 > * Graphic or disturbing imagery
 
-**🚫 Penalty:** Permanent Ban
+**Penalty:** Permanent Ban
 
 ---
 
@@ -122,7 +122,7 @@ Large-scale industrial complexes and mega-bases should be constructed outside th
 
 > Repeatedly attacking, killing, or harassing players who do not wish to engage in PvP is prohibited.
 
-**⚠️ Penalty:** Temporary ban. Repeat offenses may result in permanent removal.
+**Penalty:** Temporary ban. Repeat offenses may result in permanent removal.
 
 ---
 
@@ -186,7 +186,7 @@ Large-scale industrial complexes and mega-bases should be constructed outside th
 
 > Donation rewards, if offered, may be adjusted for balancing or technical reasons.
 
-> [☕ Support via BuyMeACoffee](https://buymeacoffee.com/crxzyyt)
+> 💰 Want to support the server? → [☕ BuyMeACoffee](https://buymeacoffee.com/crxzyyt)
 
 ---
 
@@ -241,8 +241,6 @@ Examples:
 
 ---
 
-```
-♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️
-```
+> ♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️
 
 ← *[Back to Table of Contents](./README.md)*

@@ -1,7 +1,7 @@
 ```
-╔══════════════════════════════════════════════════════════════╗
-║           ⚙️  M O D   C O N F I G U R A T I O N S           ║
-╚══════════════════════════════════════════════════════════════╝
+/=======================================\
+[ The Brassbound SMP Mod Configurations ]
+\=======================================/
 ```
 
 ← *[Back to Table of Contents](./README.md)*
@@ -12,7 +12,7 @@
 
 ---
 
-## 🎒 Sophisticated Backpacks
+## Sophisticated Backpacks
 
 | Setting | Change |
 |---------|--------|
@@ -29,7 +29,7 @@
 
 ---
 
-## ⚙️ Create
+## Create
 
 | Setting | Change |
 |---------|--------|
@@ -76,7 +76,7 @@
 
 ---
 
-## 🔋 Create: Power Loaders
+## Create: Power Loaders
 
 | Setting | Change |
 |---------|--------|
@@ -84,12 +84,19 @@
 | Contraption Range | `2` → `3` |
 | Train Range | `2` → `3` |
 | Station Range | `2` → `3` |
-| **Mechanical Generators — Stress Impact** | `8` → `4` |
-| **Mechanical Generators — Output /s Per RPM** | `2.5` → `0.25` *(64 Blocks/s at max RPM)* |
 
 ---
 
-## 🏘️ Easy Villagers
+## Create: Mechanical Generators
+
+| Setting | Change |
+|---------|--------|
+| Mechanical Generators — Stress Impact | `8` → `4` |
+| Mechanical Generators — Output /s Per RPM | `2.5` → `0.25` *(64 Blocks/s at max RPM)* |
+
+---
+
+## Easy Villagers
 
 | Setting | Change |
 |---------|--------|
@@ -103,7 +110,7 @@
 
 ---
 
-## 🪦 Gravestone
+## Gravestone
 
 | Setting | Value |
 |---------|-------|
@@ -114,7 +121,7 @@
 
 ---
 
-## 🧭 Nature's Compass
+## Nature's Compass
 
 | Setting | Change |
 |---------|--------|
@@ -122,7 +129,7 @@
 
 ---
 
-## 🔦 Torch Master
+## Torch Master
 
 | Setting | Change |
 |---------|--------|
@@ -130,7 +137,7 @@
 
 ---
 
-## 🕷️ Spawner Control
+## Spawner Control
 
 | Setting | Change |
 |---------|--------|
@@ -139,8 +146,6 @@
 
 ---
 
-```
-♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️
-```
+> ♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️
 
 ← *[Back to Table of Contents](./README.md)*

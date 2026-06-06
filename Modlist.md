@@ -1,7 +1,7 @@
 ```
-╔══════════════════════════════════════════════════════════════╗
-║                   🧩  M O D   L I S T                        ║
-╚══════════════════════════════════════════════════════════════╝
+/============================\
+[ The Brassbound SMP Modlist ]
+\============================/
 ```
 
 ← *[Back to Table of Contents](./README.md)*
@@ -14,7 +14,7 @@
 
 ---
 
-| 📦 Server Side  | 💻 Client Side |
+| Server Side | Client Side |
 |---|---|
 | [Amendments](https://modrinth.com/mod/amendments) | [Entity Model Features](https://modrinth.com/mod/entity-model-features) |
 | [AppleSkin](https://modrinth.com/mod/appleskin) | [Entity Texture Features](https://modrinth.com/mod/entitytexturefeatures) |
@@ -62,6 +62,7 @@
 | [Create: Stones](https://modrinth.com/mod/create-stones) | |
 | [Create: Stuff 'N Additions Curios Compat](https://modrinth.com/mod/create-stuff-and-addition-tank-fix) | |
 | [Create: Threaded Trains](https://modrinth.com/mod/create-threaded-trains) | |
+| [Create: Tracks+](https://modrinth.com/mod/create-tracks+) | |
 | [Create: Trimmed](https://modrinth.com/mod/create-trimmed) | |
 | [Create: Vibrant Vaults](https://modrinth.com/mod/create-vibrant-vaults) | |
 | [Easy Villagers](https://modrinth.com/mod/easy-villagers) | |
@@ -107,6 +108,7 @@
 | [Straw Statues](https://modrinth.com/mod/straw-statues) | |
 | [Subtle Effects](https://modrinth.com/mod/subtle-effects) | |
 | [Torchmaster](https://modrinth.com/mod/torchmaster) | |
+| [Trample Prevention](https://modrinth.com/mod/trample-prevention) | |
 | [Trimmable Tools](https://modrinth.com/mod/trimmable-tools) | |
 | [Vanilla Backport](https://modrinth.com/mod/vanillabackport) | |
 | [What Are They Up To?](https://modrinth.com/mod/what-are-they-up-to) | |
@@ -115,8 +117,8 @@
 
 ---
 
-```
-♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️
-```
+
+> ♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️
+
 
 ← *[Back to Table of Contents](./README.md)*

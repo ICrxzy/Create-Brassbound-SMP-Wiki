@@ -1,40 +1,40 @@
 ```
-╔══════════════════════════════════════════════════════════════╗
-║        🏗️  P U B L I C   I N F R A S T R U C T U R E        ║
-╚══════════════════════════════════════════════════════════════╝
+/===================================\
+[ The Brassbound SMP Infrastructure ]
+\===================================/
 ```
 
 ← *[Back to Table of Contents](./README.md)*
 
 ---
 
-> This page documents community-built infrastructure on Brassbound SMP — railways, stations, roads, public farms, shared resources, and other projects maintained for everyone's benefit.
+> This page documents community-built infrastructure on the Brassbound SMP. Railways, stations, roads, public farms, shared resources, and other projects maintained for everyone's benefit.
 >
-> Per [Rule #12](./Rules.md#12-land-ownership--inactive-players): *Do not intentionally obstruct, reroute, remove, or interfere with established public infrastructure without permission.*
+> Per [Rule #12](./Rules.md#12-land-ownership--inactive-players): *Do not intentionally obstruct, reroute, remove, or interfere with established public infrastructure.*
 
 ---
 
-## 🚂 Railway Network
+## Railway Network
 
-*Documentation coming soon. Add your station here!*
-
----
-
-## 🏪 Public Farms & Resources
-
-*Documentation coming soon.*
+*Players can build their own rail networks and connect them. Once created, the network will be added here with information about where it goes.*
 
 ---
 
-## 🏙️ Spawn Area
+## Public Farms & Resources
 
-*Documentation coming soon.*
+*Player built farms can be dedicated for public use. If a farm is for the public it will be added here. Players reserve the right to withdraw the farm from the public domain if needed.*
 
 ---
 
-## 🗺️ How to Contribute
+## Spawn Area
 
-If you've built something that the community benefits from, add it here! Include:
+*The spawn area contains a simple workshop building with a press, mixer, smelter, and smoker. This building exists as the central spawn hub of the server and contains various posters about maintaining server health.*
+
+---
+
+## How to Contribute
+
+If you've built something that the community benefits from, post it in the Discord [here](https://discord.gg/8nmgvzaMbZ)! Include:
 - **Name** of the structure/system
 - **Builder(s)**
 - **Location** (coordinates or landmark)
@@ -43,8 +43,6 @@ If you've built something that the community benefits from, add it here! Include
 
 ---
 
-```
-♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️
-```
+>♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️
 
 ← *[Back to Table of Contents](./README.md)*
