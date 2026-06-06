@@ -106,6 +106,11 @@
 
 ---
 
+> Recommended Resource Packs:
+- [Fresh Animations](https://modrinth.com/resourcepack/fresh-animations)
+- [Fresh Moves](https://modrinth.com/resourcepack/tras-fresh-player)
+
+---
 
 > ♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️♾️
 
