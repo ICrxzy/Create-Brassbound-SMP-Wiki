@@ -35,7 +35,7 @@
 | [Create: Slice & Dice](https://modrinth.com/mod/slice-and-dice) | [Xaero Train Map](https://modrinth.com/mod/xaero-train-map) |
 | [Create: Stuff 'N Additions](https://modrinth.com/mod/create-stuff-additions) | [Xaero World Map](https://modrinth.com/mod/xaeros-world-map) |
 | [Create: Bells & Whistles](https://modrinth.com/mod/bellsandwhistles) | [Xaero Minimap](https://modrinth.com/mod/xaeros-minimap) |
-| [Vanilla Backport](https://modrinth.com/mod/vanillabackport) | [Sodium Extra](https://modrinth.com/mod/sodium-extra) |
+| [Create: Big Contraptions](https://modrinth.com/mod/big-contraptions) | [Sodium Extra](https://modrinth.com/mod/sodium-extra) |
 | [Create: Bits 'n' Bobs](https://modrinth.com/mod/create-bits-n-bobs) | [Sodium Dynamic Lights](https://modrinth.com/mod/sodium-dynamic-lights) |
 | [Create: Connected](https://modrinth.com/mod/create-connected) | [Sodium](https://modrinth.com/mod/sodium) |
 | [Create: Copycats+](https://modrinth.com/mod/copycats) | [OK Zoomer](https://modrinth.com/mod/ok-zoomer) |
@@ -102,6 +102,9 @@
 | [Torchmaster](https://modrinth.com/mod/torchmaster) | |
 | [Trample Prevention](https://modrinth.com/mod/trample-prevention) | |
 | [Trimmable Tools](https://modrinth.com/mod/trimmable-tools) | |
+| [Vanilla Backport](https://modrinth.com/mod/vanillabackport) | |
+| [Veinminer](https://modrinth.com/mod/veinminer) | |
+| [Veinminer Enchantment](https://modrinth.com/mod/veinminer-enchantment) | |
 
 ---
 
